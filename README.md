@@ -46,16 +46,12 @@ The current system successfully demonstrates the core functionality of synchroni
 5. Run the Python script on your Raspberry Pi 5.
 
 **Note:** Detailed instructions and troubleshooting tips will be added in future updates.
-
+## Details
+* For further explanation of the project and how everything works, visit https://sites.google.com/view/rishi-tirumala/projects?authuser=0.
 ## Contributions
 
 Contributions are welcome! Feel free to open issues or submit pull requests to help improve this project.
-
-## License
-
-This project is licensed under   
- the MIT License.   
-
+   
 
 ## Acknowledgments
 
